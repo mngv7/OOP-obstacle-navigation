@@ -66,6 +66,19 @@ Choose any of the options by entering the corresponding code. The system will pr
 
 - You can view the safe directions for navigation or generate a path that avoids all detected obstacles by choosing the appropriate options.
 
+## Achievements
+
+- **Total Points**: 43/50
+- **Autograder Score**: 20.0/20.0 (Passed Tests: 80/80)
+- **Functionality (Custom Obstacle)**: 3/3 pts
+- **Object-Oriented Design and Implementation**: 2/3 pts
+- **Visibility**: 3/3 pts
+- **Coupling**: 1/3 pts
+- **Cohesion**: 3/3 pts
+- **Abstraction**: 6/6 pts
+- **Code Clarity and Comments**: 4/5 pts
+- **Exception Handling**: 1/4 pts
+
 ## Code Structure
 
 ### Key Classes
