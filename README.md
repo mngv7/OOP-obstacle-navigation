@@ -78,15 +78,11 @@ Choose any of the options by entering the corresponding code. The system will pr
 - **navigation**: Implements pathfinding logic to avoid obstacles.
 - **program**: Main interface for user interaction and menu handling.
 
-## Possible Enhancements
+## Future Work
 
 - Implement more advanced pathfinding algorithms (e.g., A*).
 - Expand obstacle types with more complex behaviors.
 - Add a graphical interface for a more interactive experience.
-
-## Conclusion
-
-This project offers a solid foundation for understanding basic obstacle detection and pathfinding concepts using C#. The modular design allows easy expansion and integration of additional features in the future.
 
 ## Author
 
